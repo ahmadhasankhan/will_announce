@@ -1,4 +1,5 @@
-# will_announce
+= will_announce: A perfect RubyGem
+
 
 Sometimes you need to display an administrative announcement to every page on the site and give the users the ability to hide the announcement, this gem will provide you to make site wide announcements.
 
