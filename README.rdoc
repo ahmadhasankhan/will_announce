@@ -1,6 +1,22 @@
-= will_announce
+# will_announce
 
 Sometimes you need to display an administrative announcement to every page on the site and give the users the ability to hide the announcement, this gem will provide you to make site wide announcements.
+
+Run the following in your terminal:
+
+    $ rails new announcement_app
+    $ cd announcement_app
+    $ vim Gemfile
+     /* Add line "gem 'will_announce'" somewhere in the gem file */
+    $ bundle install
+
+
+OR
+
+In your Existing application Use RubyGems to install will_announce to get started:
+
+    $ gem install will_announce
+
 
 == Contributing to will_announce
  
