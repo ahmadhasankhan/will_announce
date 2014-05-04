@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "will_announce"
   gem.homepage = "http://github.com/ahmadhasankhan/will_announce"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = %Q{Site Wide Announcements}
+  gem.description = %Q{Sometimes you need to display an administrative announcement to every page on the site and give the users the ability to hide the announcement, this gem will provide you to make site wide announcements.}
   gem.email = "er.ahmad.hassan@gmail.com"
   gem.authors = ["Ahmad Hasan Khan"]
   # dependencies defined in Gemfile
