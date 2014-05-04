@@ -26,7 +26,8 @@ Gem::Specification.new do |s|
     "VERSION",
     "lib/will_announce.rb",
     "test/helper.rb",
-    "test/test_will_announce.rb"
+    "test/test_will_announce.rb",
+    "will_announce.gemspec"
   ]
   s.homepage = "http://github.com/ahmadhasankhan/will_announce"
   s.licenses = ["MIT"]
