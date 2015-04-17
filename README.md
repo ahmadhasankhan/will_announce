@@ -1,10 +1,26 @@
-= Work In Progress
+# Work In Progress
 
 
-= will_announce: A perfect RubyGem
+## will_announce: A perfect RubyGem
 
 
 Sometimes you need to display an administrative announcement to every page on the site and give the users the ability to hide the announcement, this gem will provide you to make site wide announcements.
+
+## Installation
+
+Add this line to your application's Gemfile:
+
+```ruby
+gem 'will_announce'
+```
+
+And then execute:
+
+    $ bundle
+
+Or install it yourself as:
+
+    $ gem install will_announce
 
 Run the following in your terminal:
 
@@ -21,9 +37,16 @@ In your Existing application Use RubyGems to install will_announce to get starte
 
     $ gem install will_announce
 
+## Contributing to will_announce
 
-== Contributing to will_announce
- 
+1. Fork it ( https://github.com/ahmadhasankhan/will_announce/fork )
+2. Create your feature branch (`git checkout -b my-new-feature`)
+3. Commit your changes (`git commit -am 'Add some feature'`)
+4. Push to the branch (`git push origin my-new-feature`)
+5. Create a new Pull Request
+
+### Note:
+
 * Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
 * Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
 * Fork the project.
